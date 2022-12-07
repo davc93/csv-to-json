@@ -1,0 +1,21 @@
+nombre,descripcion,precio_unitario,videos,images[Solo si estan las imagenes subidas a lagun otro lugar]
+product 1,"descripcion 1,asdasdasd",5000,http://url1;http://url2;http://url3;http://url4,https://url1;https://url2;https://url3
+product 2,descripcion 2,25000,http://url1;http://url2;http://url3;http://url5,https://url1;https://url2;https://url4
+product 3,description 2,40000,http://url1;http://url2;http://url3;http://url6,https://url1;https://url2;https://url5
+product 4,descripcion 3,10000,http://url1;http://url2;http://url3;http://url7,https://url1;https://url2;https://url6
+product 5,descripcion 3,27500,http://url1;http://url2;http://url3;http://url8,https://url1;https://url2;https://url7
+product 6,descripcion 4,30500,http://url1;http://url2;http://url3;http://url9,https://url1;https://url2;https://url8
+product 7,description 3,33500,http://url1;http://url2;http://url3;http://url10,https://url1;https://url2;https://url9
+product 8,descripcion 4,36500,http://url1;http://url2;http://url3;http://url11,https://url1;https://url2;https://url10
+product 9,descripcion 5,39500,http://url1;http://url2;http://url3;http://url12,https://url1;https://url2;https://url11
+product 10,descripcion 6,42500,http://url1;http://url2;http://url3;http://url13,https://url1;https://url2;https://url12
+product 11,description 4,45500,http://url1;http://url2;http://url3;http://url14,https://url1;https://url2;https://url13
+product 12,descripcion 5,48500,http://url1;http://url2;http://url3;http://url15,https://url1;https://url2;https://url14
+product 13,descripcion 7,51500,http://url1;http://url2;http://url3;http://url16,https://url1;https://url2;https://url15
+product 14,descripcion 8,54500,http://url1;http://url2;http://url3;http://url17,https://url1;https://url2;https://url16
+product 15,description 5,57500,http://url1;http://url2;http://url3;http://url18,https://url1;https://url2;https://url17
+product 16,descripcion 6,60500,http://url1;http://url2;http://url3;http://url19,https://url1;https://url2;https://url18
+product 17,descripcion 9,63500,http://url1;http://url2;http://url3;http://url20,https://url1;https://url2;https://url19
+product 18,descripcion 10,66500,http://url1;http://url2;http://url3;http://url21,https://url1;https://url2;https://url20
+product 19,description 6,69500,http://url1;http://url2;http://url3;http://url22,https://url1;https://url2;https://url21
+product 20,descripcion 7,72500,http://url1;http://url2;http://url3;http://url23,https://url1;https://url2;https://url22
